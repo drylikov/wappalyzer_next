@@ -28,6 +28,7 @@ Before installing wappalyzer, you will to install [Firefox](https://www.mozilla.
    - For Linux: `geckodriver-vX.XX.X-linux64.tar.gz`
 3. Extract the downloaded file to a folder of your choice.
 
+
 ### Step 2: Add GeckoDriver to the System Path
 To ensure Selenium can locate the GeckoDriver executable:
 - **Windows**:
