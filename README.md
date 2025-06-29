@@ -11,6 +11,7 @@ This project is a command line tool and python library that uses [Wappalyzer](ht
 - [For Developers](https://github.com/drylikov/wappalyzer_next?tab=readme-ov-file#for-developers)
 - [FAQ](https://github.com/drylikov/wappalyzer_next?tab=readme-ov-file#faq)
 
+
 ## Installation
 
 Before installing wappalyzer, you will to install [Firefox](https://www.mozilla.org/en-US/firefox/windows/) and [geckodriver](https://github.com/mozilla/geckodriver/releases). Below are detailed steps for setting up geckodriver but you may use google/youtube for help.
