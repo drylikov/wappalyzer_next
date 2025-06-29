@@ -86,6 +86,7 @@ docker compose run --rm wappalyzer -i https://example.com -oJ output.json
 ```
 </details>
 
+
 ## For Users
 Some common usage examples are given below, refer to list of all options for more information.
 
