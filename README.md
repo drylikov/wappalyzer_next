@@ -18,6 +18,7 @@ Before installing wappalyzer, you will to install [Firefox](https://www.mozilla.
 <details>
 <summary>Setting up geckodriver</summary>
 
+
 ### Step 1: Download GeckoDriver
 1. Visit the official GeckoDriver releases page on GitHub:  
    [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
