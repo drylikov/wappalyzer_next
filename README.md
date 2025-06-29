@@ -60,6 +60,7 @@ To use it as a library, install it with `pip` inside an isolated container e.g. 
 #### Install with docker
 <details><summary>Steps</summary>
 
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/drylikov/wappalyzer_next.git
