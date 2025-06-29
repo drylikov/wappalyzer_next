@@ -73,6 +73,7 @@ cd wappalyzer_next
 docker compose up -d
 ```
 
+
 3. To scan URLs using the Docker container:
 
 - Scan a single URL:
