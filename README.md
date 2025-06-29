@@ -67,6 +67,7 @@ git clone https://github.com/drylikov/wappalyzer_next.git
 cd wappalyzer_next
 ```
 
+
 2. Build and run with Docker Compose:
 ```bash
 docker compose up -d
