@@ -53,6 +53,7 @@ To ensure Selenium can locate the GeckoDriver executable:
 pipx install wappalyzer
 ```
 
+
 #### Install as a library
 To use it as a library, install it with `pip` inside an isolated container e.g. `venv` or `docker`. You may also `--break-system-packages` to do a 'regular' install but it is not recommended.
 
